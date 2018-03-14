@@ -1,0 +1,14 @@
+{
+  "name": "newh5-swiper-template",
+  "version": "1.0.0",
+  "description": "Newh5 Swiper Template",
+  "scripts": {
+    "start": "newh5 start",
+    "build": "newh5 build"
+  },
+  "dependencies": {
+    "swiper": "^3.4.0",
+    "zepto": "^1.2.0",
+    "preloader.js": "^1.1.0"
+  }
+}
